@@ -1,0 +1,136 @@
+{% extends 'layout/base.html' %}
+{% block css %}
+    <style>
+        hr {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            主页
+            <small>Optional description</small>
+        </h1>
+    </section>
+    <section class="content">
+        <div class="box">
+            <div class="box-header">
+                <h4>{{ username }}</h4>
+                <h4>{{ name }}</h4>
+                <button type="submit" class="btn btn-info pull-left" onclick="window.location.href='/action/add/'">
+                    添加接口
+                </button>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body no-padding">
+                <table class="table table-striped" id="api_info">
+                    <tr>
+                        <th style="width: 10px">#</th>
+                        <th>接口名称</th>
+                        <th>接口地址</th>
+                        <th>请求参数</th>
+                        <th>请求头部</th>
+                        <th>状态</th>
+                        <th>操作</th>
+                    </tr>
+                    {% for info in action_list %}
+                        <tr>
+                            <td>{{ info.id }}</td>
+                            <td>{{ info.action_name }}</td>
+                            <td>{{ info.api_path }}</td>
+                            <td>{{ info.params }}</td>
+                            <td>{{ info.headers }}</td>
+                            <td>{{ info.abandon_flag }}</td>
+                            <td><input type="button" value="修改" class="btn btn-block btn-info btn-xs" id="{{ info.id }}"
+                                       onclick="updateApi(this.id)"></td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+            <!-- /.box-body -->
+        </div>
+        <!-- /.box -->
+    </section>
+    <!-- Main content -->
+    <section class="content container-fluid">
+    </section>
+    <!-- /.content -->
+{% endblock %}
+{% block js %}
+    <script>
+        //配置取消按钮
+        function resertEditTd() {
+            //刷新当前页面
+            location.reload();
+        }
+        //修改按钮
+        function updateApi(id) {
+            var b = $('#api_info #' + id).parent();//通过input找td
+            var a = b.siblings();//通过一个td，找他所有同级的td
+            if (a[1].children.length === 0) {
+                //修改html的内容
+                a[1].innerHTML = "<input type='text' value='" + a[1].innerText + "'/>";
+            }
+            if (a[2].children.length === 0) {
+                a[2].innerHTML = "<input type='text' value='" + a[2].innerText + "'/>";
+            }
+            if (a[3].children.length === 0) {
+                a[3].innerHTML = "<input type='text' value='" + a[3].innerText + "'/>";
+            }
+            if (a[4].children.length === 0) {
+                a[4].innerHTML = "<input type='text' value='" + a[4].innerText + "'/>";
+            }
+            if (a[5].children.length === 0) {
+                a[5].innerHTML = "<input type='text' value='" + a[5].innerText + "'/>";
+            }
+            b[0].innerHTML = "<input id='" + id + "' style='width: 50%' class='btn btn-block btn-info btn-xs' type='button' onclick='getapiinfo(this.id);' value='保存'/><input style='width: 50%' class='btn btn-block btn-info btn-xs' type='button' onclick='resertEditTd();' value='取消'/>";
+        }
+
+        function getagetapiinfopiinfo(id) {
+            var a = $('#api_info #' + id).parent().siblings(); //td的兄弟节点
+            var apiname = a[1].children[0].value;
+            var apipath = a[2].children[0].value;
+            var params = a[3].children[0].value;
+            var headers = a[4].children[0].value;
+            var status = a[5].children[0].value;
+            json = {
+                csrfmiddlewaretoken: '{{ csrf_token }}',
+                id: id,
+                params: params,
+                apiname: apiname,
+                apipath: apipath,
+                headers: headers,
+                status:status
+            };
+            alert(json);//通过弹窗，把获取到的信息，打印出来
+            console.log(json);//输出到前端控制台
+            keep_apiinfo(json);
+            location.reload();
+        }
+
+        function keep_apiinfo(json) {
+            $.ajax({
+                url: '/action/updata_api/',//请求发送地址
+                data: json,//请求数据
+                cache: false,//缓存，默认false，不缓存此页面
+                async: false,//设置接口请求方式。true，异步接口，false，同步接口
+                type: "POST",
+                dataType: 'json',
+                success: function (json) {
+                    if (json.status == 200) {
+                        alert("修改成功");
+                        location.reload();
+                    } else {
+                        alert(json.message);
+                    }
+                },
+                error: function () {
+                    alert('修改失败');
+                }
+            });
+        }
+    </script>
+{% endblock %}

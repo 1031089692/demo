@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="test01@140.143.203.54" uuid="f79f2805-3fae-4818-9438-3da3e9b5b54f">
+      <secret-storage>memory</secret-storage>
+    </data-source>
+  </component>
+</project>
