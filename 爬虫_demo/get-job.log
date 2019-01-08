@@ -1,0 +1,2469 @@
+2018-08-24 17:54:35,672 ERROR    打开目标网站失败:https://www.51job.com/,错误代码:Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+
+2018-08-24 18:08:16,491 ERROR    打开目标网站失败:https://www.51job.com/,错误代码:Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+
+2018-08-24 18:10:18,638 ERROR    打开目标网站失败:https://www.51job.com/,错误代码:Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+
+2018-08-24 18:13:01,742 INFO     打开目标网站成功:https://www.51job.com/
+
+2018-08-24 18:13:29,867 INFO     模拟搜索输入成功,获取目标爬取title信息:【杭州,测试工程师招聘，求职】-前程无忧
+
+2018-08-24 18:13:29,911 INFO     获取总页数:67    
+
+2018-08-24 18:13:29,981 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/82281189.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,041 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/103908394.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,101 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/106032450.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,142 INFO     获取不符合爬取规则的详情成功:http://career.h3c.com/sc/show_job_detail.php?jobid=102749515,添加到job_urls
+
+2018-08-24 18:13:30,191 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/97118945.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,245 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/100081856.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,283 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/106005696.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,327 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105889705.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,385 INFO     获取详情成功:https://jobs.51job.com/hangzhou/106016421.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,434 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/106022934.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,474 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/104504900.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,511 INFO     获取详情成功:https://jobs.51job.com/hangzhou/78397822.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,553 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/106011592.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,609 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/78803719.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,660 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/106008286.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,700 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/106008293.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,743 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/106010191.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,794 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/91946584.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,857 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/74279492.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,905 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/103092296.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,944 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/100638036.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:30,985 INFO     获取详情成功:https://jobs.51job.com/shenzhen-lgq/105998217.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,056 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99253750.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,119 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105954492.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,166 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/96101921.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,219 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105985347.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,278 INFO     获取详情成功:https://jobs.51job.com/hangzhou/103963376.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,340 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105966307.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,406 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/67451905.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,459 INFO     获取详情成功:https://jobs.51job.com/hangzhou/74766050.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,510 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/101425201.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,572 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105987358.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,631 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/60015315.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,675 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/105992309.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,744 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105987441.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,818 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105986906.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,876 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105976038.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,919 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105973539.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:31,972 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105969357.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,038 INFO     获取详情成功:https://jobs.51job.com/guangzhou-thq/105954308.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,091 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105038732.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,137 INFO     获取详情成功:https://jobs.51job.com/hangzhou/100467727.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,181 INFO     获取详情成功:https://jobs.51job.com/hangzhou/95999278.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,231 INFO     获取详情成功:https://jobs.51job.com/hangzhou/81187661.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,291 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/102101071.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,339 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105717862.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,383 INFO     获取详情成功:https://jobs.51job.com/hangzhou/86218071.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,437 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105946021.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,493 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/105951642.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,541 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/104928674.html?s=01&t=0,添加到urls
+
+2018-08-24 18:13:32,708 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/82281189.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:33,875 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/103908394.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:35,063 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/106032450.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:36,232 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/97118945.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:37,386 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/100081856.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:38,561 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/106005696.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:39,750 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105889705.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:40,924 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/106016421.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:42,734 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/106022934.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:43,917 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/104504900.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:45,081 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/78397822.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:46,244 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/106011592.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:47,458 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/78803719.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:48,643 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/106008286.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:49,811 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/106008293.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:50,972 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/106010191.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:52,140 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/91946584.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:53,313 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/74279492.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:54,492 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/103092296.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:55,673 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/100638036.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:56,854 INFO     Python 返回 url:https://jobs.51job.com/shenzhen-lgq/105998217.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:58,032 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99253750.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:13:59,231 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105954492.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:00,422 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/96101921.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:01,642 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105985347.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:02,866 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/103963376.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:04,048 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105966307.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:07,124 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/67451905.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:08,294 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/74766050.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:09,683 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/101425201.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:10,931 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105987358.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:12,116 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/60015315.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:13,317 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/105992309.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:14,468 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105987441.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:15,644 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105986906.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:16,823 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105976038.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:17,989 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105973539.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:19,159 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105969357.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:20,324 INFO     Python 返回 url:https://jobs.51job.com/guangzhou-thq/105954308.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:21,505 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105038732.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:22,685 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/100467727.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:23,871 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/95999278.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:25,055 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/81187661.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:26,223 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/102101071.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:29,102 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105717862.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:30,287 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/86218071.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:31,470 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105946021.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:33,331 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/105951642.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:34,499 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/104928674.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:35,510 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,510 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,510 INFO     岗位硬件测试工程师（YJY）保存到51job.txt成功
+
+2018-08-24 18:14:35,510 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,510 INFO     岗位中级软件测试工程师（性能测试） (职位编号：263group000415)保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位初级软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位平台测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位白盒测试/系统测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位自动化测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,511 INFO     岗位阿里旅行-测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,512 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,512 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,512 INFO     岗位化学测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,512 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,512 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位渗透测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位测试工程师-外包华为保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位车辆测试工程师（校招）保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,513 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位电机测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位集成测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,514 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位软件测试工程师(杭州金投行金融资产服务有限公司）保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位软件测试工程师（支付平台）保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位后台测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位（杭州）对日软件测试工程师（初级）保存到51job.txt成功
+
+2018-08-24 18:14:35,515 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位软件测试工程师（云事业部）保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位测试工程师（DQE）保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位系统测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,516 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:14:35,517 INFO     开始爬取第2页     
+
+2018-08-24 18:14:39,387 INFO     获取详情成功:https://jobs.51job.com/jiaxing/105913179.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,429 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105940092.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,473 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/75134515.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,517 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/95138131.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,560 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105930995.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,606 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/77522401.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,649 INFO     获取详情成功:https://jobs.51job.com/zhejiangsheng/81811225.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,696 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/103296783.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,748 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103971814.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,790 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105951199.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,841 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105942704.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,886 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105622295.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,927 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/102969127.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:39,970 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/101716185.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,012 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/97963515.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,055 INFO     获取详情成功:https://jobs.51job.com/hangzhou/95037828.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,106 INFO     获取详情成功:https://jobs.51job.com/hangzhou/88432418.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,150 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/77217049.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,198 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/53313378.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,246 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/104459387.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,298 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105849986.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,349 INFO     获取详情成功:https://jobs.51job.com/hangzhou/98212238.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,409 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103515290.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,458 INFO     获取详情成功:https://jobs.51job.com/hangzhou/65141142.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,506 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/87707824.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,554 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105191231.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,645 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/103970361.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,713 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/100529642.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,778 INFO     获取详情成功:https://jobs.51job.com/hangzhou/100735226.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,830 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102686192.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,876 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105861554.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,930 INFO     获取详情成功:https://jobs.51job.com/shenzhen/99123155.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:40,976 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/103360407.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,023 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102706689.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,071 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103065069.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,122 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/85218794.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,187 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105734186.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,233 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/95993539.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,274 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105659652.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,314 INFO     获取详情成功:https://jobs.51job.com/hangzhou/101197448.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,357 INFO     获取详情成功:https://jobs.51job.com/hangzhou/72500338.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,397 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/89207040.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,437 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/95551264.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,482 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/96462017.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,530 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105705635.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,574 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/103119037.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,619 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/104986096.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,664 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105504997.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,708 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/86419631.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,753 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/103767752.html?s=01&t=0,添加到urls
+
+2018-08-24 18:14:41,922 INFO     Python 返回 url:https://jobs.51job.com/jiaxing/105913179.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:43,070 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105940092.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:44,247 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/75134515.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:45,403 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/95138131.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:46,579 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105930995.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:47,754 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/77522401.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:48,929 INFO     Python 返回 url:https://jobs.51job.com/zhejiangsheng/81811225.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:50,110 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/103296783.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:51,283 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103971814.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:52,436 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105951199.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:53,614 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105942704.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:54,805 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105622295.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:55,998 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/102969127.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:57,194 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/101716185.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:58,378 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/97963515.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:14:59,554 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/95037828.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:00,742 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/88432418.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:01,915 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/77217049.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:03,085 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/53313378.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:05,000 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/104459387.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:06,665 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105849986.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:07,838 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/98212238.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:09,027 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103515290.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:10,218 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/65141142.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:11,401 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/87707824.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:12,593 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105191231.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:13,777 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/103970361.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:14,955 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/100529642.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:16,100 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/100735226.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:17,267 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102686192.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:18,429 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105861554.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:19,710 INFO     Python 返回 url:https://jobs.51job.com/shenzhen/99123155.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:20,876 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/103360407.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:22,157 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102706689.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:23,323 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103065069.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:24,497 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/85218794.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:25,668 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105734186.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:26,841 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/95993539.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:28,038 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105659652.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:29,321 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/101197448.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:30,491 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/72500338.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:31,827 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/89207040.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:32,993 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/95551264.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:34,183 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/96462017.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:35,354 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105705635.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:36,532 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/103119037.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:37,694 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/104986096.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:38,868 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105504997.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:40,032 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/86419631.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:41,206 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/103767752.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:42,213 INFO     岗位性能测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,213 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,213 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,213 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,213 INFO     岗位初级测试工程师双休保存到51job.txt成功
+
+2018-08-24 18:15:42,213 INFO     岗位音频测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位测试工程师-外包到腾讯云保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位功能测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,214 INFO     岗位测试工程师（余杭区）保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位软件测试工程师 (职位编号：XC-HR005)保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位测试工程师 (职位编号：HZ-DD-T002)保存到51job.txt成功
+
+2018-08-24 18:15:42,216 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位数据标注测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位自动化测试工程师-----杭州保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位软件测试工程师（有测试团队）保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位中高级软件测试工程师 (职位编号：994132270215526)保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位测试工程师（智能卡方向）保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位集成电路测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,217 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位自动化测试工程师 (职位编号：ZCI00180810)保存到51job.txt成功
+
+2018-08-24 18:15:42,219 INFO     岗位移动测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,220 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:15:42,220 INFO     开始爬取第3页     
+
+2018-08-24 18:15:45,982 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104573314.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,021 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/101292214.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,066 INFO     获取详情成功:https://jobs.51job.com/hangzhou/77684448.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,109 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/101262629.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,151 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105431563.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,202 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/103474938.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,266 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/101441178.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,320 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/104331858.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,371 INFO     获取详情成功:https://jobs.51job.com/zhejiangsheng/98677875.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,422 INFO     获取详情成功:https://jobs.51job.com/shenzhen-ftq/104221194.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,475 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/75332664.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,536 INFO     获取详情成功:https://jobs.51job.com/hangzhou/101382035.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,578 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/94682050.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,623 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/65955663.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,680 INFO     获取详情成功:https://jobs.51job.com/hangzhou/80120516.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,749 INFO     获取详情成功:https://jobs.51job.com/hangzhou/91504110.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,801 INFO     获取详情成功:https://jobs.51job.com/hangzhou/103383062.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,844 INFO     获取详情成功:https://jobs.51job.com/jiaxing/94511631.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,891 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103060700.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:46,961 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/97599105.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,023 INFO     获取详情成功:https://jobs.51job.com/hangzhou/86210080.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,066 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/97493495.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,116 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/101558571.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,202 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/70530263.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,250 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/92952100.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,307 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/97839079.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,366 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/98812787.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,419 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/98818149.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,468 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/98573740.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,516 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/102419328.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,565 INFO     获取详情成功:https://jobs.51job.com/hangzhou/91107012.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,626 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105853907.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,680 INFO     获取详情成功:https://jobs.51job.com/hangzhou-scq/82628929.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,727 INFO     获取详情成功:https://jobs.51job.com/hangzhou/84322770.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,766 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/51706093.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,809 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/99150335.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,854 INFO     获取详情成功:https://jobs.51job.com/shenzhen-nsq/99299982.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,910 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/51576856.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,958 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104484475.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:47,998 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/98437048.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,035 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105414339.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,077 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105098983.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,129 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105779455.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,178 INFO     获取详情成功:https://jobs.51job.com/hangzhou/92421191.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,227 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/104560023.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,268 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104850252.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,318 INFO     获取详情成功:https://jobs.51job.com/hangzhou/99556271.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,380 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105733891.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,424 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/92235382.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,468 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/102217237.html?s=01&t=0,添加到urls
+
+2018-08-24 18:15:48,644 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104573314.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:49,820 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/101292214.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:51,003 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/77684448.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:52,192 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/101262629.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:53,418 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105431563.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:54,618 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/103474938.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:55,790 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/101441178.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:56,997 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/104331858.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:58,190 INFO     Python 返回 url:https://jobs.51job.com/zhejiangsheng/98677875.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:15:59,428 INFO     Python 返回 url:https://jobs.51job.com/shenzhen-ftq/104221194.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:00,638 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/75332664.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:01,813 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/101382035.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:02,992 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/94682050.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:04,155 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/65955663.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:05,332 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/80120516.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:06,513 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/91504110.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:07,656 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/103383062.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:08,811 INFO     Python 返回 url:https://jobs.51job.com/jiaxing/94511631.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:09,990 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103060700.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:11,142 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/97599105.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:12,288 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/86210080.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:13,456 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/97493495.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:14,637 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/101558571.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:15,821 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/70530263.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:16,995 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/92952100.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:18,185 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/97839079.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:19,354 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/98812787.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:20,940 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/98818149.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:22,099 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/98573740.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:23,251 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/102419328.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:24,397 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/91107012.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:25,596 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105853907.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:26,757 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-scq/82628929.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:27,908 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/84322770.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:29,076 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/51706093.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:30,264 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/99150335.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:31,406 INFO     Python 返回 url:https://jobs.51job.com/shenzhen-nsq/99299982.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:32,574 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/51576856.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:33,735 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104484475.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:34,905 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/98437048.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:36,062 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105414339.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:37,218 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105098983.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:38,368 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105779455.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:39,550 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/92421191.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:40,706 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/104560023.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:41,886 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104850252.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:43,069 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/99556271.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:44,259 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105733891.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:45,417 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/92235382.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:46,580 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/102217237.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:47,589 INFO     岗位测试工程师（杭州） (职位编号：08)保存到51job.txt成功
+
+2018-08-24 18:16:47,589 INFO     岗位APP测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,589 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,589 INFO     岗位软件测试工程师(流程信息化管理中心)保存到51job.txt成功
+
+2018-08-24 18:16:47,590 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,590 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,590 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,590 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,591 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,591 INFO     岗位大数据测试工程师 (职位编号：vivo001839)保存到51job.txt成功
+
+2018-08-24 18:16:47,591 INFO     岗位测试工程师（杭州-西湖数娱）保存到51job.txt成功
+
+2018-08-24 18:16:47,591 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,591 INFO     岗位软件测试工程师（可接受实习生）保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位App高级测试工程师（丁香妈妈）保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位测试工程师（海宁）保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,592 INFO     岗位资深黑盒测试工程师 (职位编号：01)保存到51job.txt成功
+
+2018-08-24 18:16:47,593 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位算法SDK测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位自动化测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,594 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位硬件测试工程师（物联网）保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位软件测试工程师（可接实习生）保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,595 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,596 INFO     岗位无线产品测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,597 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,597 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,597 INFO     岗位QA工程师/质量管理测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,597 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,597 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:16:47,598 INFO     开始爬取第4页     
+
+2018-08-24 18:16:51,574 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/104130664.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,620 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/96770167.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,664 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/103080686.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,708 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/105871663.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,752 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103248591.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,801 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/105454506.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,855 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105544244.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,921 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105610392.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:51,976 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105334407.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,028 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104411462.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,090 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/101923662.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,154 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/98680002.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,205 INFO     获取详情成功:https://jobs.51job.com/hangzhou-scq/74722894.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,265 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/97004532.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,341 INFO     获取详情成功:https://jobs.51job.com/hangzhou/100330953.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,398 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102726282.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,445 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105678994.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,520 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/104403887.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,587 INFO     获取详情成功:https://jobs.51job.com/hangzhou/101419914.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,633 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/102966706.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,679 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/98651534.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,723 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99377130.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,780 INFO     获取详情成功:https://jobs.51job.com/hangzhou/81245759.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,852 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/91870603.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,907 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/78412687.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:52,956 INFO     获取详情成功:https://jobs.51job.com/hangzhou/89263891.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,023 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102877215.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,077 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105533466.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,124 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/66067847.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,173 INFO     获取详情成功:https://jobs.51job.com/hangzhou/89593371.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,221 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99535010.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,267 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99905442.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,308 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/104821822.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,349 INFO     获取详情成功:https://jobs.51job.com/hangzhou/83051102.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,398 INFO     获取详情成功:https://jobs.51job.com/hangzhou/71308026.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,455 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/104380290.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,506 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105837646.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,552 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/60524534.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,595 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/101486582.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,657 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/102765712.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,714 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/105225640.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,754 INFO     获取详情成功:https://jobs.51job.com/hangzhou/101838918.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,794 INFO     获取详情成功:https://jobs.51job.com/hangzhou/101883563.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,834 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/104859077.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,884 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104055362.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,935 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99039379.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:53,991 INFO     获取详情成功:https://jobs.51job.com/hangzhou/100026961.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:54,035 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/102821920.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:54,081 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/94451332.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:54,129 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/67732504.html?s=01&t=0,添加到urls
+
+2018-08-24 18:16:54,272 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/104130664.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:55,433 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/96770167.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:56,612 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/103080686.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:57,786 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/105871663.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:16:58,949 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103248591.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:00,131 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/105454506.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:01,279 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105544244.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:02,434 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105610392.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:03,593 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105334407.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:05,052 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104411462.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:06,202 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/101923662.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:07,358 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/98680002.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:08,509 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-scq/74722894.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:09,664 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/97004532.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:10,822 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/100330953.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:11,999 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102726282.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:13,169 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105678994.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:14,329 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/104403887.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:15,483 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/101419914.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:16,669 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/102966706.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:17,840 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/98651534.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:19,007 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99377130.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:20,173 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/81245759.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:21,344 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/91870603.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:22,515 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/78412687.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:23,670 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/89263891.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:24,829 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102877215.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:25,979 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105533466.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:27,158 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/66067847.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:28,330 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/89593371.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:29,513 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99535010.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:30,692 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99905442.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:31,867 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/104821822.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:33,057 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/83051102.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:34,225 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/71308026.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:35,369 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/104380290.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:36,519 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105837646.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:37,677 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/60524534.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:38,833 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/101486582.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:39,995 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/102765712.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:41,179 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/105225640.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:42,339 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/101838918.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:43,519 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/101883563.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:44,703 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/104859077.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:45,866 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104055362.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:47,018 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99039379.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:48,187 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/100026961.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:49,347 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/102821920.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:50,502 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/94451332.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:51,676 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/67732504.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:17:52,684 INFO     岗位自动化测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,684 INFO     岗位初级测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,684 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,684 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,684 INFO     岗位物联网系统测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,684 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位软件测试工程师（中高级）保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位黑盒测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位中级测试工程师（上市公司，金融项目）保存到51job.txt成功
+
+2018-08-24 18:17:52,685 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位中高级测试工程师 (职位编号：01)保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位自动化测试工程师 (职位编号：R2DEV18006)保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,686 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位软件测试工程师(外派挖财网）保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位IC测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位性能测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,687 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位软件测试工程师（高薪好团队）保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位性能测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,688 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位芯片测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位中级测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,689 INFO     岗位游戏测试工程师 (职位编号：JL-006)保存到51job.txt成功
+
+2018-08-24 18:17:52,690 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:17:52,690 INFO     开始爬取第5页     
+
+2018-08-24 18:17:56,707 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/98900009.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:56,749 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102380091.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:56,797 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/93719506.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:56,845 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105845857.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:56,892 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/91213598.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:56,954 INFO     获取详情成功:https://jobs.51job.com/hangzhou/54828549.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,015 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105750196.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,073 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/93481212.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,125 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/101925062.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,178 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/89730185.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,250 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/98688660.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,318 INFO     获取详情成功:https://jobs.51job.com/hangzhou/94753713.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,375 INFO     获取详情成功:https://jobs.51job.com/hangzhou/98151228.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,446 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/96246580.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,525 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/88186676.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,579 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104602685.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,632 INFO     获取详情成功:https://jobs.51job.com/hangzhou/95457274.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,695 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/105312464.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,775 INFO     获取详情成功:https://jobs.51job.com/guangzhou-pyq/105474620.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,845 INFO     获取详情成功:https://jobs.51job.com/hangzhou/86929369.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,912 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/86114141.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:57,978 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/66228118.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,044 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/100652385.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,091 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/96807583.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,163 INFO     获取详情成功:https://jobs.51job.com/hangzhou/96224100.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,236 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105879285.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,287 INFO     获取详情成功:https://jobs.51job.com/beijing-syq/100997642.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,340 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/100099959.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,400 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/102691800.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,459 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/53060172.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,509 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/77544541.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,565 INFO     获取详情成功:https://jobs.51job.com/hangzhou/93752699.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,631 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/104863582.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,692 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/78042769.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,747 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/102966860.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,795 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/50249944.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,848 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/50118779.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,910 INFO     获取详情成功:https://jobs.51job.com/nanjing-jnq/105214706.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:58,966 INFO     获取详情成功:https://jobs.51job.com/hangzhou/97009595.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,015 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/102356893.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,068 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/104126257.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,121 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/101055072.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,177 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/102199899.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,228 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/102885928.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,285 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/101712546.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,343 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105879068.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,406 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/95467606.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,457 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/87431923.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,512 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/105874249.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,592 INFO     获取详情成功:https://jobs.51job.com/hangzhou/100093413.html?s=01&t=0,添加到urls
+
+2018-08-24 18:17:59,762 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/98900009.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:00,960 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102380091.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:03,902 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/93719506.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:05,055 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105845857.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:06,230 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/91213598.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:07,394 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/54828549.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:08,555 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105750196.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:09,715 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/93481212.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:10,865 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/101925062.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:12,030 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/89730185.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:13,199 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/98688660.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:14,364 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/94753713.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:15,513 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/98151228.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:16,672 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/96246580.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:17,827 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/88186676.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:18,990 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104602685.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:20,140 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/95457274.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:22,506 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/105312464.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:23,797 INFO     Python 返回 url:https://jobs.51job.com/guangzhou-pyq/105474620.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:25,002 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/86929369.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:26,363 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/86114141.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:27,539 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/66228118.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:28,786 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/100652385.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:30,092 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/96807583.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:31,281 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/96224100.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:32,460 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105879285.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:33,941 INFO     Python 返回 url:https://jobs.51job.com/beijing-syq/100997642.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:35,127 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/100099959.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:36,307 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/102691800.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:37,488 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/53060172.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:38,682 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/77544541.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:39,879 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/93752699.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:41,181 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/104863582.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:42,363 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/78042769.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:43,543 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/102966860.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:44,735 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/50249944.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:45,923 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/50118779.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:47,118 INFO     Python 返回 url:https://jobs.51job.com/nanjing-jnq/105214706.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:48,293 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/97009595.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:49,478 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/102356893.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:50,664 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/104126257.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:51,912 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/101055072.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:53,115 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/102199899.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:54,313 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/102885928.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:55,488 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/101712546.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:56,670 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105879068.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:57,885 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/95467606.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:18:59,074 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/87431923.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:00,253 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/105874249.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:01,630 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/100093413.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:02,641 INFO     岗位产品测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,641 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,641 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,641 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,642 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,642 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,642 INFO     岗位软件测试工程师-中通服软件科技有限公司（杭州）保存到51job.txt成功
+
+2018-08-24 18:19:02,642 INFO     岗位APP测试工程师（语农网络招聘）保存到51job.txt成功
+
+2018-08-24 18:19:02,642 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,643 INFO     岗位燃料电池测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,643 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,643 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,643 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,643 INFO     岗位测试工程师（双休五险一金）保存到51job.txt成功
+
+2018-08-24 18:19:02,643 INFO     岗位QA Engineer（软件测试工程师）保存到51job.txt成功
+
+2018-08-24 18:19:02,644 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,644 INFO     岗位测试工程师（移动端+客户端+web）保存到51job.txt成功
+
+2018-08-24 18:19:02,644 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,644 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,644 INFO     岗位测试工程师 (职位编号：0521)保存到51job.txt成功
+
+2018-08-24 18:19:02,644 INFO     岗位Toy Physical Test Engineer - 玩具测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,645 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,645 INFO     岗位资深软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,645 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,645 INFO     岗位软件测试工程师（QA）保存到51job.txt成功
+
+2018-08-24 18:19:02,645 INFO     岗位测试工程师(飞机端)保存到51job.txt成功
+
+2018-08-24 18:19:02,645 INFO     岗位高级测试工程师（沈阳）保存到51job.txt成功
+
+2018-08-24 18:19:02,646 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,646 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,646 INFO     岗位C# ASP.net 测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,646 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,646 INFO     岗位研发总部试制验证部NVH测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,646 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,647 INFO     岗位APP测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,647 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,647 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,647 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,647 INFO     岗位测试工程师（南京）保存到51job.txt成功
+
+2018-08-24 18:19:02,647 INFO     岗位高级软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,648 INFO     岗位助理软件测试工程师 Tester (面向2019年毕业生)保存到51job.txt成功
+
+2018-08-24 18:19:02,648 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,648 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,648 INFO     岗位测试工程师KF18002保存到51job.txt成功
+
+2018-08-24 18:19:02,648 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,648 INFO     岗位高级游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,649 INFO     岗位测试工程师(0452)保存到51job.txt成功
+
+2018-08-24 18:19:02,649 INFO     岗位1023智能项目测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,649 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,649 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,649 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:19:02,650 INFO     开始爬取第6页     
+
+2018-08-24 18:19:06,393 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/101068991.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,438 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/95573037.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,483 INFO     获取详情成功:https://jobs.51job.com/hangzhou/103974063.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,525 INFO     获取详情成功:https://jobs.51job.com/hangzhou/101998285.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,571 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105349277.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,624 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/97655735.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,691 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/104822411.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,741 INFO     获取详情成功:https://jobs.51job.com/hangzhou/99585497.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,797 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/102704648.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,856 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/50262449.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,913 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/101433003.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:06,965 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/41704811.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,023 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xcq/98981456.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,078 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/89496676.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,145 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102684730.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,202 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/99245439.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,258 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105580954.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,308 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/103106960.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,363 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/104104058.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,426 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/100908494.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,479 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/102932739.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,534 INFO     获取详情成功:https://jobs.51job.com/hangzhou/87094028.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,597 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102628997.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,667 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/89875793.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,721 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/100071089.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,774 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/104845422.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,827 INFO     获取详情成功:https://jobs.51job.com/hangzhou-scq/83920133.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,890 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/78110421.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,941 INFO     获取详情成功:https://jobs.51job.com/hangzhou/76317605.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:07,991 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/94819634.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,043 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102507663.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,092 INFO     获取不符合爬取规则的详情成功:http://intertek.51job.com/sc/show_job_detail.php?jobid=53494359,添加到job_urls
+
+2018-08-24 18:19:08,151 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/99093179.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,199 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/105114889.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,243 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/90536990.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,287 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/84045706.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,335 INFO     获取详情成功:https://jobs.51job.com/hangzhou/103180580.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,389 INFO     获取详情成功:https://jobs.51job.com/hangzhou/98483372.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,437 INFO     获取详情成功:https://jobs.51job.com/hangzhou/82739526.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,486 INFO     获取详情成功:https://jobs.51job.com/hangzhou/103524596.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,531 INFO     获取详情成功:https://jobs.51job.com/hangzhou/97464666.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,579 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/103243843.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,630 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/71586179.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,685 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/63072343.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,742 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/98204836.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,795 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105581544.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,840 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105900291.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,897 INFO     获取详情成功:https://jobs.51job.com/hangzhou/87743897.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,943 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/85352509.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:08,989 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/102667293.html?s=01&t=0,添加到urls
+
+2018-08-24 18:19:09,138 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/101068991.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:10,327 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/95573037.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:11,512 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/103974063.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:12,709 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/101998285.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:13,874 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105349277.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:15,040 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/97655735.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:16,216 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/104822411.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:17,399 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/99585497.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:18,557 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/102704648.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:19,744 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/50262449.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:20,912 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/101433003.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:22,141 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/41704811.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:23,325 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xcq/98981456.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:24,517 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/89496676.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:25,708 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102684730.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:26,921 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/99245439.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:28,113 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105580954.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:29,328 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/103106960.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:30,497 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/104104058.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:31,675 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/100908494.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:32,876 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/102932739.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:34,048 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/87094028.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:35,231 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102628997.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:36,427 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/89875793.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:37,600 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/100071089.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:38,793 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/104845422.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:39,980 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-scq/83920133.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:41,149 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/78110421.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:42,401 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/76317605.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:43,614 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/94819634.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:44,808 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102507663.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:45,998 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/99093179.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:47,199 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/105114889.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:48,375 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/90536990.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:49,569 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/84045706.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:50,750 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/103180580.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:51,952 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/98483372.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:53,129 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/82739526.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:54,315 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/103524596.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:55,466 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/97464666.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:56,709 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/103243843.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:57,894 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/71586179.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:19:59,064 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/63072343.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:00,255 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/98204836.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:01,419 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105581544.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:02,787 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105900291.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:03,938 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/87743897.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:05,091 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/85352509.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:06,246 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/102667293.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:07,252 INFO     岗位性能测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,253 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,253 INFO     岗位功能测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,253 INFO     岗位准入测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,253 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,253 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,253 INFO     岗位资深测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位软件测试工程师(高薪急聘）保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位测试工程师（白盒）保存到51job.txt成功
+
+2018-08-24 18:20:07,254 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,255 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位web功能测试工程师—互联网公司保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位中级测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位中级软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,256 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位测试工程师（五险一金+周末双休）保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位开发测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位资深软件测试工程师（杭州）保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位测试工程师（制造）保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位功能测试工程师（QA）保存到51job.txt成功
+
+2018-08-24 18:20:07,257 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位渗透测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位软件测试工程师（中级）保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位自动化测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位HIL测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,258 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:20:07,259 INFO     开始爬取第7页     
+
+2018-08-24 18:20:11,075 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/69104016.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,123 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/102237466.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,182 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/99045367.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,228 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104096543.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,273 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/96824377.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,317 INFO     获取详情成功:https://jobs.51job.com/hangzhou/81963090.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,366 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/101471444.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,418 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/105520824.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,473 INFO     获取详情成功:https://jobs.51job.com/hangzhou/105436220.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,524 INFO     获取详情成功:https://jobs.51job.com/hangzhou/97107366.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,588 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103562553.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,642 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99211505.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,700 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/103509684.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,754 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/98431430.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,809 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/104437022.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,871 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103576723.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,924 INFO     获取详情成功:https://jobs.51job.com/hangzhou/100909415.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:11,982 INFO     获取详情成功:https://jobs.51job.com/hangzhou/102962807.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,032 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/101629027.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,089 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/104959927.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,166 INFO     获取详情成功:https://jobs.51job.com/hangzhou/104912435.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,223 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/49461505.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,288 INFO     获取详情成功:https://jobs.51job.com/hangzhou/96263973.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,348 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/99527972.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,399 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/98466979.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,450 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/103792897.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,504 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/104279663.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,558 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/68623917.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,613 INFO     获取详情成功:https://jobs.51job.com/ningbo-zhq/104979680.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,669 INFO     获取详情成功:https://jobs.51job.com/nanchang/92223107.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,727 INFO     获取详情成功:https://jobs.51job.com/hangzhou-scq/102580315.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,787 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/105834669.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,838 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/105784554.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,883 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/105663125.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,931 INFO     获取详情成功:https://jobs.51job.com/hangzhou/85254357.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:12,978 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/90029979.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,023 INFO     获取详情成功:https://jobs.51job.com/hangzhou/82308057.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,086 INFO     获取详情成功:https://jobs.51job.com/hangzhou/103174660.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,134 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/105671085.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,179 INFO     获取详情成功:https://jobs.51job.com/hangzhou/94067923.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,225 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xsq/105387000.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,274 INFO     获取详情成功:https://jobs.51job.com/hangzhou-yhq/75384767.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,322 INFO     获取详情成功:https://jobs.51job.com/hangzhou-gsq/79384746.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,369 INFO     获取详情成功:https://jobs.51job.com/hangzhou/99403872.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,416 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/84616551.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,460 INFO     获取详情成功:https://jobs.51job.com/hangzhou-bjq/97997397.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,504 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/98993436.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,552 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/90673757.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,602 INFO     获取详情成功:https://jobs.51job.com/hangzhou-xhq/99148057.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,646 INFO     获取详情成功:https://jobs.51job.com/hangzhou-jgq/101703607.html?s=01&t=0,添加到urls
+
+2018-08-24 18:20:13,793 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/69104016.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:14,957 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/102237466.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:16,107 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/99045367.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:17,404 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104096543.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:18,581 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/96824377.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:19,763 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/81963090.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:20,945 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/101471444.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:22,120 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/105520824.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:23,280 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/105436220.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:24,437 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/97107366.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:25,600 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103562553.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:26,786 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99211505.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:27,928 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/103509684.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:29,094 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/98431430.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:30,276 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/104437022.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:31,453 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103576723.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:32,599 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/100909415.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:33,766 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/102962807.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:34,999 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/101629027.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:36,249 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/104959927.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:37,546 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/104912435.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:38,759 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/49461505.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:40,062 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/96263973.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:41,263 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/99527972.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:42,684 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/98466979.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:43,896 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/103792897.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:45,232 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/104279663.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:46,573 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/68623917.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:48,149 INFO     Python 返回 url:https://jobs.51job.com/ningbo-zhq/104979680.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:49,324 INFO     Python 返回 url:https://jobs.51job.com/nanchang/92223107.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:50,812 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-scq/102580315.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:52,009 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/105834669.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:53,199 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/105784554.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:54,390 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/105663125.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:55,653 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/85254357.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:20:56,819 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/90029979.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:00,383 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/82308057.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:05,096 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/103174660.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:11,980 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/105671085.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:13,127 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/94067923.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:14,287 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xsq/105387000.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:15,600 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-yhq/75384767.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:16,778 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-gsq/79384746.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:17,994 INFO     Python 返回 url:https://jobs.51job.com/hangzhou/99403872.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:19,185 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/84616551.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:20,355 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-bjq/97997397.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:21,613 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/98993436.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:22,849 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/90673757.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:24,004 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-xhq/99148057.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:25,191 INFO     Python 返回 url:https://jobs.51job.com/hangzhou-jgq/101703607.html?s=01&t=0 数据成功
+
+
+2018-08-24 18:21:26,199 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,199 INFO     岗位高级测试工程师 五险一金 双休保存到51job.txt成功
+
+2018-08-24 18:21:26,199 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位软件测试工程师（app）保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位知名安防公司招聘软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位自动化测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,200 INFO     岗位初级测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位软件测试工程师（初级）保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位热测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,201 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位软件测试工程师 (职位编号：杭州技术中心)保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位渗透测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,202 INFO     岗位影像测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位游戏测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位系统测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位测温测试工程师（非软件测试）保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位软件测试工程师（实习）保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位高级软件测试工程师（杭州研发中心）保存到51job.txt成功
+
+2018-08-24 18:21:26,203 INFO     岗位Android测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位硬件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位硬件测试工程师（杭州研发中心）保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位系统测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,204 INFO     岗位测试工程师-接口测试保存到51job.txt成功
+
+2018-08-24 18:21:26,205 INFO     岗位软件测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,205 INFO     岗位高级测试工程师保存到51job.txt成功
+
+2018-08-24 18:21:26,205 INFO     开始爬取第8页     
+
